@@ -1,7 +1,7 @@
 Hi 👋 My name is Sara Abdelsalam
 ================================
 
-Software Developer
+A Software Developer Who is Eager to Continous Learning and gaining more technical skills. 
 ------------------
 
 * 🌍  I'm based in Egypt
